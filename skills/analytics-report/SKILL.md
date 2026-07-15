@@ -3,7 +3,7 @@ name: analytics-report
 description: >
   Pull social analytics from PosteAhora and summarize how the user's posts are
   performing across platforms, then optionally seed new ideas from what worked.
-  Trigger on "как заходят мои посты", "покажи аналитику", "how are my posts doing",
+  Trigger on "show my analytics", "how did my posts do", "how are my posts doing",
   "analytics report", "which posts performed best", "what should I post more of",
   or similar.
 ---

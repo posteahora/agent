@@ -3,7 +3,7 @@ name: collect-post-ideas
 description: >
   Brainstorm social post ideas for the user's niche and push them into the
   PosteAhora kanban (Ideas board → "Unassigned" column) using the posteahora MCP
-  tools. Trigger on "собери идеи для постов", "накидай идей", "fill my ideas
+  tools. Trigger on "collect post ideas", "give me some ideas", "fill my ideas
   board", "brainstorm post ideas", "add ideas to PosteAhora", or similar.
 ---
 

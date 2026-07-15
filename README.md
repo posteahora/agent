@@ -39,9 +39,9 @@ the [`@posteahora/mcp`](https://github.com/posteahora/mcp) package.
 
 Just talk to your agent:
 
-- *"Собери 8 идей для постов про запуск, тег launch"* → `collect-post-ideas`
-- *"Запланируй эти 3 поста в Instagram и X на утро вторника"* → `schedule-content`
-- *"Как заходили мои посты за последний месяц?"* → `analytics-report`
+- *"Brainstorm 8 post ideas about our launch, tag them launch"* → `collect-post-ideas`
+- *"Schedule these 3 posts to Instagram and X for Tuesday morning"* → `schedule-content`
+- *"How did my posts do over the last month?"* → `analytics-report`
 
 ## Tools exposed by the MCP server
 

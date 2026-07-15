@@ -3,7 +3,7 @@ name: schedule-content
 description: >
   Create, schedule and publish social posts across the user's connected networks
   (Instagram, X/Twitter, LinkedIn, Threads, Facebook, TikTok and more) using the
-  PosteAhora MCP tools. Trigger on "запланируй посты", "опубликуй в инстаграм",
+  PosteAhora MCP tools. Trigger on "schedule my posts", "post this to Instagram",
   "schedule these posts", "post this to X and LinkedIn", "plan my week of content",
   "publish now", or similar.
 ---
